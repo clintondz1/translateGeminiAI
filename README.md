@@ -124,7 +124,7 @@ Dự án này sử dụng [MIT License](LICENSE).
 
 **dintond21**
 - GitHub: [@dintond21](https://github.com/dintond21)
-- Email: your.email@example.com
+- Email: louis138tlhd@gmail.com
 
 ## 🙏 Acknowledgments
 
