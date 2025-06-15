@@ -122,8 +122,8 @@ Dự án này sử dụng [MIT License](LICENSE).
 
 ## 👨‍💻 Tác giả
 
-**dintond21**
-- GitHub: [@dintond21](https://github.com/dintond21)
+**clintondz1**
+- GitHub: [@clintondz1](https://github.com/clintondz1)
 - Email: louis138tlhd@gmail.com
 
 ## 🙏 Acknowledgments
